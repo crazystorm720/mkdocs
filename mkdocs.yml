@@ -1,4 +1,10 @@
-site_name: My Documentation Site
+
+### Updated `mkdocs.yml`
+
+Here's the updated `mkdocs.yml` to include the new terms page:
+
+```yaml
+site_name: Caring Paws Pet Sitting
 site_url: https://192.168.2.219/  # this is the headless server IP
 theme:
   name: material
@@ -48,4 +54,8 @@ extra_javascript:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.13.11/katex.min.css
+
+nav:
+  - Home: index.md
+  - Terms and Conditions: terms.md
 
