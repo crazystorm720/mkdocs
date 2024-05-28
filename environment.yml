@@ -1,0 +1,16 @@
+name: loves-lament-planckian-abyss
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - mkdocs
+  - mkdocs-material
+  - pandoc
+  - texlive-core
+  - pygments
+  - ghp-import
+  - pyyaml
+  - requests
+  - pip:
+      - mkdocs-include-markdown-plugin
