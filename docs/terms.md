@@ -32,9 +32,9 @@ Welcome to Caring Paws Pet Sitting. We strive to provide the best care for your 
 
 If you have any questions or concerns about these terms and conditions, please contact us at:
 
-```yaml
-contact:
-  email: caringpaws@example.com
-  phone: 555-1234
-  address: "123 Pet Lane, Dogtown, USA"
-```
+- **Email**: caringpaws@example.com
+- **Phone**: 555-1234
+- **Address**: 123 Pet Lane, Dogtown, USA
+
+Thank you for choosing Caring Paws Pet Sitting. We look forward to providing your pet with the best care possible.
+

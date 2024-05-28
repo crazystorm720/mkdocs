@@ -18,14 +18,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: green
-      accent: green
+      primary: purple
+      accent: purple
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: green
-      accent: green
+      primary: purple
+      accent: purple
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -52,3 +52,4 @@ extra_css:
 nav:
   - Home: index.md
   - Terms and Conditions: terms.md
+
