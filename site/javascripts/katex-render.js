@@ -8,4 +8,5 @@ document$.subscribe(() => {
       ],
       throwOnError: false
     });
-  });  
+  });
+  
