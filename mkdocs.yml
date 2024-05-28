@@ -1,9 +1,3 @@
-
-### Updated `mkdocs.yml`
-
-Here's the updated `mkdocs.yml` to include the new terms page:
-
-```yaml
 site_name: Caring Paws Pet Sitting
 site_url: https://192.168.2.219/  # this is the headless server IP
 theme:
@@ -58,4 +52,3 @@ extra_css:
 nav:
   - Home: index.md
   - Terms and Conditions: terms.md
-
