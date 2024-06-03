@@ -2,7 +2,7 @@
 
 For full details about our services, visit [Rover.com](https://www.rover.com).
 
-## About Caring Paws Pet Sitting
+## About Caring Paws Pet Sitting "For dogs only"
 
 At Caring Paws Pet Sitting, we specialize in providing exceptional care for dogs that need a little extra attention. Whether your furry friend is a senior dog, a puppy, or has special needs, our experienced caregivers are here to ensure they receive the love and care they deserve.
 
